@@ -1,0 +1,72 @@
+/* Overall styling for the data manager component */
+.data-manager {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+/* Styling for the search bar section */
+.search-bar {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.search-bar label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.search-bar input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+}
+
+.search-bar button {
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+/* Styling for the data list section */
+.data-list {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.data-list h3 {
+  margin-bottom: 5px;
+}
+
+.data-list p {
+  margin-bottom: 5px;
+}
+
+/* Styling for the add new data section */
+.add-new-data {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.add-new-data h2 {
+  margin-bottom: 10px;
+}
+
+.add-new-data label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.add-new-data input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+  width: 150px;
+}
+
+.add-new-data button {
+  padding: 5px 10px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
